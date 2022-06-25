@@ -2,6 +2,8 @@
 
 # Java new Project 1 #
 
+Description : https://shamanchandini.github.io/Student-Mark-Calculation/
+
 ### This is a very simple and basic Student Marks Calculation Project using Java Language in IntelliJ IDEA.
 
 #### Here you can calculate a students mark in various subjects and can also find it's total,average and grade.
