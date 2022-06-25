@@ -2,7 +2,7 @@
 
 # Java new Project 1 #
 
-### This is a very simple basicStudent Marks Calculation Project using Java Language in IntelliJ IDEA.
+### This is a very simple and basic Student Marks Calculation Project using Java Language in IntelliJ IDEA.
 
 #### Here you can calculate a students mark in various subjects and can also find it's total,average and grade.
 > Enter the values
