@@ -41,9 +41,6 @@ if(avg>50)
 else{
     txtgrade.setText("FAIL");
 }
-
-
-
-        };
+ };
     });
 }}
